@@ -93,6 +93,16 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
+            text="sᴜᴘᴘᴏʀᴛ",
+            url=f"https://t.me/MUSIC_WORLD_SH",
+        ),
+        InlineKeyboardButton(
+            text="ᴜᴘᴅᴀᴛᴇs",
+            url=f"https://t.me/ShaliniMusicBotSh",
+        )
+    ],
+    [
+        InlineKeyboardButton(
             text="ᴍᴀɪɴᴛᴀɪɴᴇʀ",
             url=f"https://t.me/shalini_shalu_69",
         ),
